@@ -19,6 +19,14 @@ body
   position: relative;
 }
 
+.scoreWord
+{
+  position: absolute;
+  font-size: 7vmin;
+  right: 16vmin;
+  top: 1vmin;
+}
+
 .score 
 {
   position: absolute;
